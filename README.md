@@ -18,6 +18,7 @@ Saber los principios de un campo magnético y de electromagnetismo.
 
 - **Capitulo 8**
 
+![image](https://user-images.githubusercontent.com/116777118/211611917-eeaf8324-d5ad-4b0a-9d6d-7d098e7faa59.png)
 
 
 - **Capitulo 9**
