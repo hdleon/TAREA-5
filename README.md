@@ -16,7 +16,7 @@ Saber los principios de un campo magnético y de electromagnetismo.
 
 # 2. MARCO TEÓRICO 
 
-- **Capitulo 8**
+- **Capitulo 9**
 
 ![image](https://user-images.githubusercontent.com/116777118/211611917-eeaf8324-d5ad-4b0a-9d6d-7d098e7faa59.png)
 
@@ -26,7 +26,7 @@ Saber los principios de un campo magnético y de electromagnetismo.
 
 ![image](https://user-images.githubusercontent.com/116777118/211626363-f11743d0-7bd8-4a32-84b9-65146adef5a6.png)
 
-- **Capitulo 9**
+- **Capitulo 10**
 
 ![image](https://user-images.githubusercontent.com/116777118/211626892-cb036520-4be1-4f1f-89ec-88bf85d12ddd.png)
 
