@@ -20,8 +20,19 @@ Saber los principios de un campo magnético y de electromagnetismo.
 
 ![image](https://user-images.githubusercontent.com/116777118/211611917-eeaf8324-d5ad-4b0a-9d6d-7d098e7faa59.png)
 
+![image](https://user-images.githubusercontent.com/116777118/211623934-a2eec6ac-1922-4315-b674-a5f0a14c53a4.png)
+
+![image](https://user-images.githubusercontent.com/116777118/211624806-72f7f475-ca1c-4983-9fc9-76d082c76ecd.png)
+
+![image](https://user-images.githubusercontent.com/116777118/211626363-f11743d0-7bd8-4a32-84b9-65146adef5a6.png)
 
 - **Capitulo 9**
+
+![image](https://user-images.githubusercontent.com/116777118/211626892-cb036520-4be1-4f1f-89ec-88bf85d12ddd.png)
+
+![image](https://user-images.githubusercontent.com/116777118/211631205-7b106dd6-fbae-47a8-a7d5-1b1a2616f0da.png)
+
+![image](https://user-images.githubusercontent.com/116777118/211634759-2feb979e-d641-4d61-85ed-77c523afe691.png)
 
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
